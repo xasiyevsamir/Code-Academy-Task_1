@@ -1,0 +1,16 @@
+ internal class Program
+ {
+     static void Main(string[] args)
+     {
+         int year = 25;
+
+         float yas = 23.8F;
+
+         string name ="Samir" ;
+
+         string hasil = name + year;
+
+        Console.WriteLine(hasil);
+     
+     }
+ }
